@@ -87,3 +87,5 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, getString(R.string.so_cot, soCot), Toast.LENGTH_SHORT).show();
     }
 }
+
+// commit 2
